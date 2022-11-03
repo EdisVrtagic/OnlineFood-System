@@ -1,0 +1,71 @@
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.exe.config
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.exe
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.pdb
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\Guna.UI2.dll
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.Properties.Resources.resources
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.GenerateResource.cache
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.CoreCompileInputs.cache
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.CopyComplete
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.exe
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.pdb
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.HomePage.resources
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.Components.Widget.resources
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\Bunifu_UI_v1.52.dll
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\burger.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\cesar.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\frites.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\grcka.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\jabuka.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\jaffa.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\kamilica.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\kinderpal.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\limunada.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\mrkva.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\narandza.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\nutella.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\obicnicaj.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\pistacija.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\pizzacap.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\pizzaveg.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\sumskovoce.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\vegan.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\icons\zelenicaj.png
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\GumroadLicensing.dll
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\Newtonsoft.Json.dll
+D:\VS projekti\OnlineFood\OnlineFood\bin\Debug\Newtonsoft.Json.xml
+D:\VS projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.AssemblyReference.cache
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\burger.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\cesar.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\frites.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\grcka.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\jabuka.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\jaffa.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\kamilica.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\kinderpal.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\limunada.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\mrkva.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\narandza.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\nutella.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\obicnicaj.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\pistacija.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\pizzacap.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\pizzaveg.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\sumskovoce.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\vegan.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\icons\zelenicaj.png
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.exe.config
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.exe
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\OnlineFood.pdb
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\GumroadLicensing.dll
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\Guna.UI2.dll
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\Newtonsoft.Json.dll
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\bin\Debug\Newtonsoft.Json.xml
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.AssemblyReference.cache
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.Components.Widget.resources
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.HomePage.resources
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.Properties.Resources.resources
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.GenerateResource.cache
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.CoreCompileInputs.cache
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.csproj.CopyComplete
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.exe
+D:\VS projekti\C# projekti\OnlineFood\OnlineFood\obj\Debug\OnlineFood.pdb
